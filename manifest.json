@@ -1,0 +1,13 @@
+{
+  "id": "oli_sample",
+  "friendlyName": "Sample Activity",
+  "description": "A sample activity",
+  "delivery": {
+    "element": "oli-sample-delivery",
+    "entry": "./sample-delivery.js"
+  },
+  "authoring": {
+    "element": "oli-sample-authoring",
+    "entry": "./sample-authoring.js"
+  }
+}
